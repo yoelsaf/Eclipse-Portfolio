@@ -56,7 +56,7 @@ const items = [
         name: "Movie Streaming App",
         category: "App Development",
         path: "https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus",
-        img: "/src/assets/images/blog-1.jpg",
+        img: "/src/assets/images/img4.png",
     },
     {
 
@@ -68,7 +68,7 @@ const items = [
     },
     {
         id: 3,
-        name: "Quiz App",
+        name: "Quiz Website",
         category: "Web Development",
         path: "https://ela-quiz-app.netlify.app/",
         img: "/src/assets/images/img1.png",
@@ -78,21 +78,28 @@ const items = [
         name: "Recipe App",
         category: "Web Design",
         path: "https://miki-recipe.netlify.app",
-        img: "/src/assets/images/img6.png",
+        img: "/src/assets/images/img2.png",
     },
     {
         id: 5,
-        name: "Bible App",
+        name: "Bible Website",
         category: "Web Development",
         path: "https://vue-bible.vercel.app/",
         img: "/src/assets/images/img5.png",
     },
     {
         id: 6,
-        name: "E-commerce App",
+        name: "E-commerce Website",
         category: "Web Development",
         path: "https://miki-recipe.netlify.app",
-        img: "/src/assets/images/img6.png",
+        img: "/src/assets/images/img3.png",
+    },
+    {
+        id: 7,
+        name: "Recipe App",
+        category: "Web Development",
+        path: "https://miki-recipe.netlify.app",
+        img: "/src/assets/images/img2.png",
     },
 ];
 

@@ -87,6 +87,24 @@
 
                 </li>
 
+                <li class="service-item">
+
+                    <div class="service-icon-box">
+                        <img src="../assets/images\Host.jpg" alt="camera icon" width="40">
+                    </div>
+
+                    <div class="service-content-box">
+                        <h4 class="h4 service-item-title">Web hosting</h4>
+
+                        <p class="service-item-text">
+                            Experienced in managing hosting, domain setup, and optimizing performance on platforms like
+                            cPanel,
+                            AWS...
+                        </p>
+                    </div>
+
+                </li>
+
             </ul>
         </section>
 
@@ -98,7 +116,7 @@
                 <li class="testimonials-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="testimonials-avatar-box">
-                            <img src="../assets/images/avatar-1.png" alt="Daniel lewis" width="60"
+                            <img src="../assets/images/avatar-1.png" alt="Kibrom Nigusse" width="60"
                                 data-testimonials-avatar />
                         </figure>
 
@@ -122,12 +140,12 @@
                 <li class="testimonials-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="testimonials-avatar-box">
-                            <img src="../assets/images/avatar-2.png" alt="Jessica miller" width="60"
-                                data-testimonials-avatar />
+                            <img src="https://i.pinimg.com/236x/ea/37/01/ea3701f8d9bef2c483872022b2b03a8e.jpg"
+                                alt="Milkyas Simon" width="60" data-testimonials-avatar />
                         </figure>
 
                         <h4 class="h4 testimonials-item-title" data-testimonials-title>
-                            Ariyam Tekeste
+                            Milkyas Simon
                         </h4>
 
                         <div class="testimonials-text" data-testimonials-text>
@@ -146,12 +164,12 @@
                 <li class="testimonials-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="testimonials-avatar-box">
-                            <img src="../assets/images/avatar-3.png" alt="Emily evans" width="60"
-                                data-testimonials-avatar />
+                            <img src="https://i.pinimg.com/236x/13/54/3c/13543c08374378ff080f1d0c8764b613.jpg"
+                                alt="Asmerom Yohanes" width="60" data-testimonials-avatar />
                         </figure>
 
                         <h4 class="h4 testimonials-item-title" data-testimonials-title>
-                            Muzit Michael
+                            Asmerom Yohanes
                         </h4>
 
                         <div class="testimonials-text" data-testimonials-text>
@@ -170,7 +188,7 @@
                 <li class="testimonials-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="testimonials-avatar-box">
-                            <img src="../assets/images/avatar-4.png" alt="Henry william" width="60"
+                            <img src="../assets/images/avatar-4.png" alt="Naod Abraham" width="60"
                                 data-testimonials-avatar />
                         </figure>
 
@@ -229,7 +247,7 @@
             </section>
         </div>
 
-        <section class="clients">
+        <!-- <section class="clients">
             <h3 class="h3 clients-title">Clients</h3>
 
             <ul class="clients-list has-scrollbar">
@@ -269,7 +287,7 @@
                     </a>
                 </li>
             </ul>
-        </section>
+        </section> -->
 
 
 
