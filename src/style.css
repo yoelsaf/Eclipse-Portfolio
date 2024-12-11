@@ -916,6 +916,10 @@ main {
   line-height: 1.6;
 }
 
+ol.timeline-text li {
+  list-style: disc;
+}
+
 
 /**
  * skills 
