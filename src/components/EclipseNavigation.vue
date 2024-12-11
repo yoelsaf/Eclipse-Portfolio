@@ -31,6 +31,11 @@ const navItems = [
         isActive: false
     },
     {
+        name: 'Resume-M',
+        link: '/resume-m',
+        isActive: false
+    },
+    {
         name: 'Portfolio',
         link: '/portfolio',
         isActive: false

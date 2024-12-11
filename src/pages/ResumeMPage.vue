@@ -36,7 +36,7 @@
                 </li>
 
                 <li class="timeline-item">
-                    <h4 class="h4 timeline-item-title">Flutter Developer & Acting Team Lead
+                    <h4 class="h4 timeline-item-title">Flutter Developer & UI/UX Designer
                     </h4>
 
                     <span>Kabbee</span>
@@ -60,12 +60,11 @@
                         Testing: Write and execute unit and integration tests to ensure app quality.
                         <br>
                         <br>
-                        Collaboration and Leadership:
+                        Collaboration:
                         <br>
                         <br>
-                        Effective communication: Collaborate effectively with designers, developers, and product
+                        Effective communication: Collaborate effectively with other designers, developers, and product
                         managers.
-                        Mentorship: Guide and mentor junior developers, sharing knowledge and best practices.
                         <br>
                         <br>
                         Innovation and Ownership:
@@ -79,56 +78,7 @@
                 </li>
 
 
-                <li class="timeline-item">
-                    <h4 class="h4 timeline-item-title">IT Specialist
-                    </h4>
 
-                    <span>Holon Academy</span>
-                    <span> 2017 - 2019</span>
-
-
-
-                    <p class="timeline-text">
-                        <br>
-
-                        Optimized network performance and security, protecting critical company data and ensuring
-                        seamless connectivity for all users.
-                    <ol class="timeline-text">
-                        <li>Identified and implemented workflow improvements to enhance efficiency and productivity for
-                            all departments.</li>
-                        <li>Troubleshoot and resolve hardware and software issues quickly and effectively, minimizing
-                            downtime and disruption.</li>
-                        <li>Monitored security cameras and maintained company security protocols to safeguard assets and
-                            personnel.</li>
-                    </ol>
-
-                    </p>
-                </li>
-                <li class="timeline-item">
-                    <h4 class="h4 timeline-item-title">IT Specialist
-                    </h4>
-
-                    <span>Sunrise Computer Center</span>
-                    <span> 2015 - 2016</span>
-
-
-
-                    <p class="timeline-text">
-                        <br>
-
-                        Optimized network performance and security, protecting critical company data and ensuring
-                        seamless connectivity for all users.
-                    <ol class="timeline-text">
-                        <li>Identified and implemented workflow improvements to enhance efficiency and productivity for
-                            all departments.</li>
-                        <li>Troubleshoot and resolve hardware and software issues quickly and effectively, minimizing
-                            downtime and disruption.</li>
-                        <li>Monitored security cameras and maintained company security protocols to safeguard assets and
-                            personnel.</li>
-                    </ol>
-
-                    </p>
-                </li>
 
             </ol>
         </section>
@@ -217,97 +167,25 @@
                         Bachelor of Science in Computer Science
 
                     </p>
-                    <span>2019-2023</span>
+                    <span>2023-Present</span>
 
                 </li>
 
                 <li class="timeline-item">
                     <h4 class="h4 timeline-item-title">
-                        SMAP Institute
+                        Mosaic Academy USA
                     </h4>
 
                     <p class="timeline-text">
-                        Associate's degree, Information Technology
+                        High School Diploma
 
                     </p>
-                    <span>2013-2014</span>
+                    <span> 2018 - 2020</span>
 
                 </li>
             </ol>
         </section>
 
-
-        <section class="timeline">
-            <div class="title-wrapper">
-                <div class="icon-box">
-                    <ion-icon name="book-outline"></ion-icon>
-                </div>
-
-                <h3 class="h3">Certifications</h3>
-            </div>
-
-            <ol class="timeline-list">
-
-                <li class="timeline-item">
-
-                    <h4 class="h4 timeline-item-title">
-                        Agile Software Developer (LinkedIn)
-                    </h4>
-                    <span>2024</span>
-
-                </li>
-                <li class="timeline-item">
-
-                    <h4 class="h4 timeline-item-title">
-                        DevOps, Cloud, And Agile Foundations Specialization (Coursera)
-                    </h4>
-                    <span>2024</span>
-
-                </li>
-                <li class="timeline-item">
-                    <h4 class="h4 timeline-item-title">
-                        META Front-End Developer (Coursera)
-                    </h4>
-                    <span>2023</span>
-
-                </li>
-                <li class="timeline-item">
-
-                    <h4 class="h4 timeline-item-title">
-                        Flutter Foundations Course (Code with Andrea)
-                    </h4>
-                    <span>2023</span>
-
-                </li>
-                <li class="timeline-item">
-
-                    <h4 class="h4 timeline-item-title">
-                        Google IT Support (Coursera)
-                    </h4>
-                    <span>2023</span>
-
-                </li>
-
-                <li class="timeline-item">
-
-                    <h4 class="h4 timeline-item-title">
-                        AWS Essential Training for Architects (LinkedIn)
-                    </h4>
-                    <span>2022</span>
-
-                </li>
-                <li class="timeline-item">
-
-                    <h4 class="h4 timeline-item-title">
-                        CCNA Routing and Switching (Cisco Networking Academy)
-                    </h4>
-                    <span>2019</span>
-
-                </li>
-
-
-            </ol>
-        </section>
 
 
 
@@ -377,6 +255,17 @@
                     <div class="title-wrapper">
                         <h5 class="h5">WordPress</h5>
                         <data value="100">100%</data>
+                    </div>
+
+                    <div class="skill-progress-bg">
+                        <div class="skill-progress-fill" style="width: 100%"></div>
+                    </div>
+                </li>
+
+                <li class="skills-item">
+                    <div class="title-wrapper">
+                        <h5 class="h5">Photography</h5>
+                        <data value="80">100%</data>
                     </div>
 
                     <div class="skill-progress-bg">
