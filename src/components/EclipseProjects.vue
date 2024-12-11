@@ -15,9 +15,6 @@ console.log('project', props.name, props.category, props.image);
                     <div class="project-item-icon-box">
                         <ion-icon name="eye-outline"></ion-icon>
                     </div>
-
-                    <!-- <img src="/src/assets/images/blog-1.jpg" alt="image" loading="lazy" /> -->
-                    <!-- <img src="../assets/images/blog-1.jpg" alt="image" loading="lazy" /> -->
                     <img :src="`${image}`" alt="image" loading="lazy" />
                 </figure>
 
