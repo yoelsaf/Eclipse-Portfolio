@@ -55,7 +55,7 @@
                     </h4>
 
                     <span>Kabbee</span>
-                    <span>Feb 2022—  Jul 2024</span>
+                    <span>Feb 2022—  Jul 2023</span>
 
 
 
