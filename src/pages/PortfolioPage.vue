@@ -54,65 +54,62 @@ const items = [
     {
         id: 1,
         name: "Kabbee +",
-        category: "App Development",
+        category: "Mobile App",
         path: "https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus",
         img: "/src/assets/images/img4.png",
     },
     {
 
         id: 2,
-        name: "Quiz App",
-        category: "App Development",
+        name: "Quiz",
+        category: "Mobile App",
         path: "https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus",
         img: "/src/assets/images/img6.png",
     },
     {
         id: 3,
-        name: "Quiz Website",
-        category: "Web Development",
+        name: "Restaurant Reservation",
+        category: "UI/UX design",
+        path: "https://miki-recipe.netlify.app",
+        img: "/src/assets/images/figma.png",
+    },
+   
+    {
+        id: 5,
+        name: "Quiz",
+        category: "Website",
         path: "https://ela-quiz-app.netlify.app/",
         img: "/src/assets/images/img1.png",
     },
+
     {
-        id: 4,
-        name: "Recipe App",
-        category: "Web Design",
-        path: "https://miki-recipe.netlify.app",
-        img: "/src/assets/images/img2.png",
-    },
-    {
-        id: 5,
-        name: "Bible Website",
-        category: "Web Development",
+        id: 6,
+        name: "Bible",
+        category: "Website",
         path: "https://vue-bible.vercel.app/",
         img: "/src/assets/images/img5.png",
     },
+  
     {
-        id: 6,
-        name: "E-commerce Website",
-        category: "Web Development",
+        id: 7,
+        name: "E-commerce",
+        category: "Website",
         path: "https://miki-recipe.netlify.app",
         img: "/src/assets/images/img3.png",
     },
     {
-        id: 7,
-        name: "Recipe App",
-        category: "Web Development",
+        id: 8,
+        name: "Recipe",
+        category: "Website",
         path: "https://miki-recipe.netlify.app",
         img: "/src/assets/images/img2.png",
     },
-    {
-        id: 8,
-        name: "Restaurant Reservation",
-        category: "UI/UX Design",
-        path: "https://miki-recipe.netlify.app",
-        img: "/src/assets/images/figma.png",
-    },
+  
     {
 
         id: 9,
-        name: "Shopping App",
-        category: "App Development",
+        name: "Shopping",
+        category: "Mobile App",
         path: "https://ecommerce-app-scratch.web.app/",
         img: "/src/assets/images/ecommerce.png",
     },
@@ -120,14 +117,22 @@ const items = [
 
         id: 10,
         name: "Africa Earth Keepers",
-        category: "Web Development",
+        category: "Website",
         path: "https://africaearthkeepers.com/",
         img: "/src/assets/images/aek.png",
     },
+    {
+        id: 11,
+        name: "Modernistic",
+        category: "Website",
+        path: "https://www.modernistic.io/",
+        img: "/src/assets/images/modernistic.png",
+    },
+   
 
 ];
 
-const categories = ["All", "UI/UX Design", "Web Development", "App Development",]
+const categories = ["All", "UI/UX design", "Mobile App", "Website"]
 
 const selectedCategory = ref('All')
 const filterdItems = ref(items)

@@ -89,11 +89,11 @@
 
 
                     <p class="timeline-text">
-                        <br>
-
-                        Optimized network performance and security, protecting critical company data and ensuring
-                        seamless connectivity for all users.
+                    </p>
+                    
                     <ol class="timeline-text">
+                        <li>Optimized network performance and security, protecting critical company data and ensuring
+                            seamless connectivity for all users.</li>
                         <li>Identified and implemented workflow improvements to enhance efficiency and productivity for
                             all departments.</li>
                         <li>Troubleshoot and resolve hardware and software issues quickly and effectively, minimizing
@@ -102,7 +102,6 @@
                             personnel.</li>
                     </ol>
 
-                    </p>
                 </li>
                 <li class="timeline-item">
                     <h4 class="h4 timeline-item-title">IT Specialist
@@ -114,11 +113,11 @@
 
 
                     <p class="timeline-text">
-                        <br>
+                    </p>
 
-                        Optimized network performance and security, protecting critical company data and ensuring
-                        seamless connectivity for all users.
                     <ol class="timeline-text">
+                        <li>Optimized network performance and security, protecting critical company data and ensuring
+                        seamless connectivity for all users.</li>
                         <li>Identified and implemented workflow improvements to enhance efficiency and productivity for
                             all departments.</li>
                         <li>Troubleshoot and resolve hardware and software issues quickly and effectively, minimizing
@@ -127,7 +126,7 @@
                             personnel.</li>
                     </ol>
 
-                    </p>
+                    
                 </li>
 
             </ol>
