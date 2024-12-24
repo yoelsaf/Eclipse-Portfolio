@@ -69,7 +69,7 @@ const items = [
     {
         id: 3,
         name: "Restaurant Reservation",
-        category: "UI/UX design",
+        category: "Design",
         path: "https://miki-recipe.netlify.app",
         img: "/src/assets/images/figma.png",
     },
@@ -132,7 +132,7 @@ const items = [
 
 ];
 
-const categories = ["All", "UI/UX design", "Mobile App", "Website"]
+const categories = ["All", "Design", "Mobile App", "Website"]
 
 const selectedCategory = ref('All')
 const filterdItems = ref(items)
