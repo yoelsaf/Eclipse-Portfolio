@@ -30,16 +30,16 @@ const navItems = [
         link: '/resume',
         isActive: false
     },
-    {
-        name: 'Resume-N',
-        link: '/resume-n',
-        isActive: false
-    },
-    {
-        name: 'Resume-M',
-        link: '/resume-m',
-        isActive: false
-    },
+    // {
+    //     name: 'Resume-N',
+    //     link: '/resume-n',
+    //     isActive: false
+    // },
+    // {
+    //     name: 'Resume-M',
+    //     link: '/resume-m',
+    //     isActive: false
+    // },
         {
         name: 'Resume-A',
         link: '/resume-a',
