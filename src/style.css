@@ -1654,6 +1654,10 @@ textarea.form-input::-webkit-resizer {
     margin-bottom: 0;
     margin-top: 5px;
   }
+  .service-icon-box img {
+    color: var(--orange-yellow-crayola);
+    font-size: 20px;
+  }
 
   .service-content-box {
     text-align: left;

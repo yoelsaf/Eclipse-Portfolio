@@ -72,7 +72,7 @@
                 <li class="service-item">
 
                     <div class="service-icon-box">
-                        <img src="../assets/images\Host.jpg" alt="camera icon" width="40">
+                        <img src="../assets/images\web-hosting.svg" alt="camera icon" width="40">
                     </div>
 
                     <div class="service-content-box">
@@ -90,11 +90,11 @@
                 <li class="service-item">
 
                     <div class="service-icon-box">
-                        <img src="../assets/images\Host.jpg" alt="camera icon" width="40">
+                        <img src="../assets/images\ads.svg" alt="camera icon" width="40">
                     </div>
 
                     <div class="service-content-box">
-                        <h4 class="h4 service-item-title">Social Media Marketing</h4>
+                        <h4 class="h4 service-item-title">Social Media Ads</h4>
 
                         <p class="service-item-text">
                             Experienced in managing hosting, domain setup, and optimizing performance on platforms like
