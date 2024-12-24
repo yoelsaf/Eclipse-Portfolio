@@ -1,7 +1,7 @@
 <template>
     <div>
         <header>
-            <h2 class="h2 article-title">Portfolio</h2>
+            <h2 class="h2 article-title">Projects</h2>
         </header>
 
         <!-- filter -->

@@ -21,6 +21,11 @@ const navItems = [
         isActive: true
     },
     {
+        name: 'Services',
+        link: '/services',
+        isActive: true
+    },
+    {
         name: 'Resume',
         link: '/resume',
         isActive: false
@@ -41,8 +46,8 @@ const navItems = [
         isActive: false
     },
     {
-        name: 'Portfolio',
-        link: '/portfolio',
+        name: 'Projects',
+        link: '/projects',
         isActive: false
     },
     {
