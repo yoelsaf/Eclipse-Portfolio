@@ -1,5 +1,5 @@
 import { createMemoryHistory, createRouter } from "vue-router";
-import AboutPage from "../pages/AboutPage.vue";
+import AboutPage from "../pages/AboutUsPage.vue";
 import ResumePage from "../pages/ResumePage.vue";
 import PortfolioPage from "../pages/PortfolioPage.vue";
 import ContactPage from "../pages/ContactPage.vue";

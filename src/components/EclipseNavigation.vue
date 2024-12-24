@@ -16,7 +16,7 @@ import EclipseNav from './EclipseNavItem.vue';
 
 const navItems = [
     {
-        name: 'About',
+        name: 'AboutUs',
         link: '/',
         isActive: true
     },

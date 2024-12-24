@@ -3,13 +3,13 @@
         <aside class="sidebar" :class="isMenuOpen ? 'active' : ''">
             <div class="sidebar-info">
                 <figure class="avatar-box">
-                    <img src="../assets/images/my-avatar.png" alt="Yoel Gebrezgabhier " width="100" />
+                    <img src="../assets/images/our-avatar.jpg" alt="Yoel Gebrezgabhier " width="100" />
                 </figure>
 
                 <div class="info-content">
-                    <h1 class="name" title="Yoel Gebrezgabhier">Yoel Gebrezgabhier</h1>
+                    <h1 class="name" title="Yoel Gebrezgabhier">Eclipse</h1>
 
-                    <p class="title">Web & App developer</p>
+                    <!-- <p class="title">Web & App developer</p> -->
                 </div>
 
                 <button class="info_more-btn" @click="() => isMenuOpen = !isMenuOpen">
@@ -55,7 +55,7 @@
                         <div class="contact-info">
                             <p class="contact-title">Location</p>
 
-                            <address>Winnipeg, Manitoba, Canada</address>
+                            <address> Canada</address>
                         </div>
                     </li>
                 </ul>
