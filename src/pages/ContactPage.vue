@@ -10,7 +10,7 @@
             <h3 class="h3 form-title"></h3>
 
 
-            <form class="form" action="https://formspree.io/f/mjkvdayy" method="POST">
+            <form class="form" action="https://formspree.io/f/mgvvvnyb"method="POST">
 
 
                 <div class="input-wrapper">
