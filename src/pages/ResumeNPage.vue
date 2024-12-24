@@ -147,52 +147,48 @@
 
                 <li class="timeline-item">
 
-                    <h4 class="h4 timeline-item-title">
-                        Dahlak Logistics
-                    </h4>
-
-                    <span><a href="#" target="_blank">View Project</a></span>
-
-                </li>
-
-                <li class="timeline-item">
-
 
                     <h4 class="h4 timeline-item-title">
                         Kabbee+
                     </h4>
 
-                    <span><a href="#" target="_blank">View Project</a></span>
+                    <span><a href="https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus" target="_blank">View Project</a></span>
 
                 </li>
 
                 <li class="timeline-item">
 
                     <h4 class="h4 timeline-item-title">
-                        TheFranklinWestfield
+                        Shopping App
                     </h4>
 
-                    <span><a href="#" target="_blank">View Project</a></span>
+                    <span><a href="https://ecommerce-app-scratch.web.app/" target="_blank">View Project</a></span>
 
                 </li>
 
                 <li class="timeline-item">
 
                     <h4 class="h4 timeline-item-title">
-                        Modernistic.io
+                        Africa Earth Keepers
                     </h4>
-                    <span><a href="#" target="_blank">View Project</a></span>
+                    <span><a href="https://africaearthkeepers.com/" target="_blank">View Project</a></span>
 
                 </li>
-
                 <li class="timeline-item">
 
-                    <h4 class="h4 timeline-item-title">
-                        Xriance Enterprises
-                    </h4>
-                    <span><a href="#" target="_blank">View Project</a></span>
+                <h4 class="h4 timeline-item-title">
+                    Dahlak Logistics
+                </h4>
 
                 </li>
+                <li class="timeline-item">
+
+                <h4 class="h4 timeline-item-title">
+                    Elora collection
+                </h4>
+
+                </li>
+
 
 
             </ol>

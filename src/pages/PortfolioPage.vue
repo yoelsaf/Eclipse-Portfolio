@@ -53,7 +53,7 @@ import EclipseProjects from '../components/EclipseProjects.vue';
 const items = [
     {
         id: 1,
-        name: "Movie Streaming App",
+        name: "Kabbee +",
         category: "App Development",
         path: "https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus",
         img: "/src/assets/images/img4.png",
@@ -108,6 +108,23 @@ const items = [
         path: "https://miki-recipe.netlify.app",
         img: "/src/assets/images/figma.png",
     },
+    {
+
+        id: 9,
+        name: "Shopping App",
+        category: "App Development",
+        path: "https://ecommerce-app-scratch.web.app/",
+        img: "/src/assets/images/ecommerce.png",
+    },
+    {
+
+        id: 10,
+        name: "Africa Earth Keepers",
+        category: "Web Development",
+        path: "https://africaearthkeepers.com/",
+        img: "/src/assets/images/aek.png",
+    },
+
 ];
 
 const categories = ["All", "UI/UX Design", "Web Development", "App Development",]
