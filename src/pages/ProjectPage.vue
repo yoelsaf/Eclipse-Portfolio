@@ -128,6 +128,20 @@ const items = [
         path: "https://www.modernistic.io/",
         img: "/src/assets/images/modernistic.png",
     },
+       {
+        id: 12,
+        name: "Lina plumbing",
+        category: "Website",
+        path: "https://linaplumb.co.uk",
+        img: "/src/assets/images/project-12.jpg",
+    },
+       {
+        id: 13,
+        name: "learn Streaming",
+        category: "mobile app",
+        path: "https://eridemy.com/",
+        img: "/src/assets/images/project-13.png",
+    },
    
 
 ];
