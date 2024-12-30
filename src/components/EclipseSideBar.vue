@@ -31,7 +31,7 @@
                         <div class="contact-info">
                             <p class="contact-title">Email</p>
 
-                            <a href="" class="contact-link">yoelsaf@gmail.com</a>
+                            <a href="" class="contact-link">eclipse.sw.dev@gmail.com</a>
                         </div>
                     </li>
 
