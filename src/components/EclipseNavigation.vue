@@ -25,11 +25,9 @@ const navItems = [
         link: '/services',
         isActive: true
     },
-    {
-        name: 'Resume',
-        link: '/resume',
-        isActive: false
-    },
+    //
+
+
     // {
     //     name: 'Resume-N',
     //     link: '/resume-n',
@@ -40,11 +38,11 @@ const navItems = [
     //     link: '/resume-m',
     //     isActive: false
     // },
-        {
-        name: 'Resume-A',
-        link: '/resume-a',
-        isActive: false
-    },
+    // {
+    //     name: 'Resume-A',
+    //     link: '/resume-a',
+    //     isActive: false
+    // },
     {
         name: 'Projects',
         link: '/projects',

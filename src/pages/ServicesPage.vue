@@ -6,7 +6,7 @@
         </header>
 
         <section class="service">
-            <h3 class="h3 service-title">Our Services</h3>
+            <!-- <h3 class="h3 service-title">Our Services</h3> -->
 
             <ul class="service-list">
                 <li class="service-item">

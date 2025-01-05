@@ -68,12 +68,13 @@ const items = [
     },
     {
         id: 3,
-        name: "Restaurant Reservation",
-        category: "Design",
-        path: "https://miki-recipe.netlify.app",
-        img: "/src/assets/images/figma.png",
+        name: "learn Streaming",
+        category: "mobile app",
+        path: "https://eridemy.com/",
+        img: "/src/assets/images/project-13.png",
     },
-   
+
+
     {
         id: 5,
         name: "Quiz",
@@ -89,7 +90,7 @@ const items = [
         path: "https://vue-bible.vercel.app/",
         img: "/src/assets/images/img5.png",
     },
-  
+
     {
         id: 7,
         name: "E-commerce",
@@ -104,7 +105,7 @@ const items = [
         path: "https://miki-recipe.netlify.app",
         img: "/src/assets/images/img2.png",
     },
-  
+
     {
 
         id: 9,
@@ -128,21 +129,21 @@ const items = [
         path: "https://www.modernistic.io/",
         img: "/src/assets/images/modernistic.png",
     },
-       {
+    {
         id: 12,
         name: "Lina plumbing",
         category: "Website",
         path: "https://linaplumb.co.uk",
         img: "/src/assets/images/project-12.jpg",
     },
-       {
+    {
         id: 13,
-        name: "learn Streaming",
-        category: "mobile app",
-        path: "https://eridemy.com/",
-        img: "/src/assets/images/project-13.png",
+        name: "Restaurant Reservation",
+        category: "Design",
+        path: "#",
+        img: "/src/assets/images/figma.png",
     },
-   
+
 
 ];
 

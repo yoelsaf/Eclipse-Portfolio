@@ -109,7 +109,7 @@
         </section>
 
 
-        <section class="testimonials">
+        <!-- <section class="testimonials">
             <h3 class="h3 testimonials-title">Testimonials</h3>
 
             <ul class="testimonials-list has-scrollbar">
@@ -209,7 +209,7 @@
                     </div>
                 </li>
             </ul>
-        </section>
+        </section> -->
 
 
         <div class="modal-container" data-modal-container>

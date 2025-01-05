@@ -44,7 +44,9 @@
 
                         <div class="team-text" data-testimonials-text>
                             <p>
-                                Eclipse transformed our vision into a stunning website and app, exceeding all expectations. Their team is incredibly professional and creative!
+                                A skilled software developer with expertise in building scalable and efficient backend
+                                systems. His commitment to clean code and innovative solutions drives the success of
+                                every project.
                             </p>
                         </div>
                     </div>
@@ -63,7 +65,8 @@
 
                         <div class="team-text" data-testimonials-text>
                             <p>
-                                The seamless design and functionality Eclipse delivered have boosted our business significantly. Highly recommend their services!
+                                A front-end developer who excels in creating responsive and dynamic user interfaces. His
+                                attention to detail ensures flawless performance across all devices.
                             </p>
                         </div>
                     </div>
@@ -82,7 +85,8 @@
 
                         <div class="team-text" data-testimonials-text>
                             <p>
-                                Eclipse's attention to detail and expertise in web and app development made our project a huge success. We couldn’t be happier!
+                                With 9+ years of experience in IT Industry. Expertise in web development and creating
+                                innovative cross platform mobile apps, delivering impactful and efficient solutions.
                             </p>
                         </div>
                     </div>
@@ -101,7 +105,8 @@
 
                         <div class="team-text" data-testimonials-text>
                             <p>
-                                Working with Eclipse was a game-changer. Their innovative approach brought our ideas to life effortlessly!
+                                A creative UI/UX designer who crafts intuitive and user-centered designs. His passion
+                                for aesthetics and usability brings every digital product to life.
                             </p>
                         </div>
                     </div>
@@ -110,7 +115,7 @@
         </section>
 
 
-        <section class="testimonials">
+        <!-- <section class="testimonials">
             <h3 class="h3 testimonials-title">Testimonials</h3>
 
             <ul class="testimonials-list has-scrollbar">
@@ -190,7 +195,7 @@
                     </div>
                 </li>
             </ul>
-        </section>
+        </section> -->
 
 
 
