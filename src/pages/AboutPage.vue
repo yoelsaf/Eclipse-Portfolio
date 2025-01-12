@@ -29,7 +29,7 @@
             <ul class="service-list">
                 <li class="service-item">
                     <div class="service-icon-box">
-                        <img src="../assets/images/icon-design.svg
+                        <img src="/assets/images/icon-design.svg
                 " alt="design icon" width="40" />
                     </div>
 
@@ -44,7 +44,7 @@
 
                 <li class="service-item">
                     <div class="service-icon-box">
-                        <img src="../assets/images/icon-dev.svg" alt="Web development icon" width="40" />
+                        <img src="/assets/images/icon-dev.svg" alt="Web development icon" width="40" />
                     </div>
 
                     <div class="service-content-box">
@@ -58,7 +58,7 @@
 
                 <li class="service-item">
                     <div class="service-icon-box">
-                        <img src="../assets/images/icon-app.svg" alt="mobile app icon" width="40" />
+                        <img src="/assets/images/icon-app.svg" alt="mobile app icon" width="40" />
                     </div>
 
                     <div class="service-content-box">
@@ -74,7 +74,7 @@
                 <li class="service-item">
 
                     <div class="service-icon-box">
-                        <img src="../assets/images/icon-photo.svg" alt="camera icon" width="40">
+                        <img src="/assets/images/icon-photo.svg" alt="camera icon" width="40">
                     </div>
 
                     <div class="service-content-box">
@@ -90,7 +90,7 @@
                 <li class="service-item">
 
                     <div class="service-icon-box">
-                        <img src="../assets/images\Host.jpg" alt="camera icon" width="40">
+                        <img src="/assets/images\Host.jpg" alt="camera icon" width="40">
                     </div>
 
                     <div class="service-content-box">
@@ -116,7 +116,7 @@
                 <li class="testimonials-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="testimonials-avatar-box">
-                            <img src="../assets/images/avatar-1.png" alt="Kibrom Nigusse" width="60"
+                            <img src="/assets/images/avatar-1.png" alt="Kibrom Nigusse" width="60"
                                 data-testimonials-avatar />
                         </figure>
 
@@ -188,7 +188,7 @@
                 <li class="testimonials-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="testimonials-avatar-box">
-                            <img src="../assets/images/avatar-4.png" alt="Naod Abraham" width="60"
+                            <img src="/assets/images/avatar-4.png" alt="Naod Abraham" width="60"
                                 data-testimonials-avatar />
                         </figure>
 
@@ -222,10 +222,10 @@
 
                 <div class="modal-img-wrapper">
                     <figure class="modal-avatar-box">
-                        <img src="../assets/images/avatar-1.png" alt="Daniel lewis" width="80" data-modal-img />
+                        <img src="/assets/images/avatar-1.png" alt="Daniel lewis" width="80" data-modal-img />
                     </figure>
 
-                    <img src="../assets/images/icon-quote.svg" alt="quote icon" />
+                    <img src="/assets/images/icon-quote.svg" alt="quote icon" />
                 </div>
 
                 <div class="modal-content">
@@ -253,37 +253,37 @@
             <ul class="clients-list has-scrollbar">
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-1-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-1-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-2-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-2-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-3-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-3-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-4-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-4-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-5-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-5-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-6-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-6-color.png" alt="client logo" />
                     </a>
                 </li>
             </ul>
