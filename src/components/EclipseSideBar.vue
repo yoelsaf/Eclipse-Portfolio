@@ -65,19 +65,7 @@
                 <ul class="social-list">
                     <li class="social-item">
                         <a href="#" class="social-link">
-                            <ion-icon name="logo-facebook"></ion-icon>
-                        </a>
-                    </li>
-
-                    <li class="social-item">
-                        <a href="#" class="social-link">
-                            <ion-icon name="logo-twitter"></ion-icon>
-                        </a>
-                    </li>
-
-                    <li class="social-item">
-                        <a href="#" class="social-link">
-                            <ion-icon name="logo-instagram"></ion-icon>
+                            <ion-icon name="logo-linkedin"></ion-icon>
                         </a>
                     </li>
                 </ul>

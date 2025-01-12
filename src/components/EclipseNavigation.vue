@@ -25,24 +25,6 @@ const navItems = [
         link: '/services',
         isActive: true
     },
-    //
-
-
-    // {
-    //     name: 'Resume-N',
-    //     link: '/resume-n',
-    //     isActive: false
-    // },
-    // {
-    //     name: 'Resume-M',
-    //     link: '/resume-m',
-    //     isActive: false
-    // },
-    // {
-    //     name: 'Resume-A',
-    //     link: '/resume-a',
-    //     isActive: false
-    // },
     {
         name: 'Projects',
         link: '/projects',
